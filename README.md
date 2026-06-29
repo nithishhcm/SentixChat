@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![NLP](https://img.shields.io/badge/NLP-Sentiment_Analysis-orange)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Analytics-purple)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 # 💬 SentixChat: Advanced NLP Sentiment & Live Conversational Interest Analytics
 
 An enterprise-grade, dark-themed Natural Language Processing (NLP) desktop application engineered using **Python 3**, **Tkinter Interface Engines**, **Selenium Core Web Drivers**, and **Matplotlib**. 
